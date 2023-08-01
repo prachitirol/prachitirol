@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning  react js
 - 💞️ I’m looking to collaborate on  clone projects 
-- 📫 How to reach me @prachitirole@gmail.com
+- 📫 How to reach me @prachitirole@gmail.com.
 
 <!---
 prachitirol/prachitirol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
